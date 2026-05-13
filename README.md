@@ -3,10 +3,6 @@
 A simple procedural platform generator for 2D/3D endless climbing games made with Unity.
 This script dynamically spawns platforms based on the player's height, allowing smooth level generation with configurable spawn limits, spacing, and randomness.
 
----
-
-````md
-
 ## Features
 
 - Dynamic platform spawning
@@ -35,7 +31,7 @@ This script dynamically spawns platforms based on the player's height, allowing 
    - Sprite Renderer / Mesh Renderer
    - Collider2D or Collider
 3. Drag the object into the Project folder to create a prefab
-
+   
 ---
 
 ### 2. Create the Player
@@ -45,10 +41,9 @@ Make sure your player GameObject:
 - Has the tag:
   ```text
   Player
-````
 
 * Contains movement and physics components
-
+  
 ---
 
 ### 3. Add the Script
