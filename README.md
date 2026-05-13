@@ -1,11 +1,7 @@
-# Repository Description
-
 A simple procedural platform generator for 2D/3D endless climbing games made with Unity.
 This script dynamically spawns platforms based on the player's height, allowing smooth level generation with configurable spawn limits, spacing, and randomness.
 
 ---
-
-# README.md
 
 ````md
 # Unity Platform Spawner
